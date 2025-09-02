@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287928837829",
+    "project_id": "futterjt",
+    "storage_bucket": "futterjt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287928837829:android:d84f6acfbea50e832bb2ac",
+        "android_client_info": {
+          "package_name": "com.example.myjt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_VKnpCddiKUYlCunZdzAXFe6eY-hmSNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
